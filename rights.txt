@@ -1,0 +1,6 @@
+rights-model: open
+allowed: reuse, share, remix
+forbidden: none
+license: MIT
+rights-update: on-change
+sha256: TO-FILL
