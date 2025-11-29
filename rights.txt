@@ -3,4 +3,4 @@ allowed: reuse, share, remix
 forbidden: none
 license: MIT
 rights-update: on-change
-sha256: TO-FILL
+sha256: 6bbe31feb041d8e919290e86c245deadab1fc7913920409974098f4b288e8320
